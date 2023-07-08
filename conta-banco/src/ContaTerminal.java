@@ -49,7 +49,7 @@ public class ContaTerminal {
 	    System.out.print("Digite seu saldo: ");
 		double saldo = entrada.nextDouble();
       //mensagem da abertura de conta para o usuario
-		System.out.println("\nOlá! Mario Andrade,\nobrigado por criar uma conta em nosso banco, \nsua agência é 067-8, conta: 1021 e seu saldo R$ 237.48 \njá está dísponivel para saque   " + numero + agencia + nomeCliente + saldo );
+		System.out.println("\nOlá! Mario Andrade,\nobrigado por criar uma conta em nosso banco, \nsua agência é 067-8, conta: 1021 e seu saldo R$ 237.48,00 \njá está dísponivel para saque   " + numero + agencia + nomeCliente + saldo );
 		
 		//criando a instancia
 
