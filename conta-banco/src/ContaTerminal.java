@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class ContaTerminal {
        
-     //atributos
+     //atributos da classe
 	  int numero;
 	  String agencia;
 	  String nomeCliente;
-	  double  saldo;
+	  double saldo;
 	  
 	  
 	  
